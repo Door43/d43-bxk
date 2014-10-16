@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxk:home|Door43 (bxk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxk|d43-bxk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxk/archive/master.zip|d43-bxk.zip]]
+
+**Recent Changes**
+{{changes>ns = bxk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxk|Ethnologue data]]
+
